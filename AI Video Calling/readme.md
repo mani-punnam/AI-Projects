@@ -10,5 +10,9 @@ This project is divided into three modules.
 
 1.Background Removing:
 
-  i) This project is built up on Mask R_CNN Model.
-  ii) 
+    i) This Module is built up on Mask R_CNN Model.
+    ii) i used the Keras API Embedded with TensorFlow Library.
+ 
+ 2.Palm Detection:
+    
+    i) 
