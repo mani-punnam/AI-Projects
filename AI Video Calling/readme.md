@@ -11,5 +11,4 @@ This project is divided into three modules.
 1.Background Removing:
 
   i) This project is built up on Mask R_CNN Model.
-  
   ii) 
